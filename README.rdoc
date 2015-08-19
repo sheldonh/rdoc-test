@@ -1,3 +1,5 @@
 = rdoc-test
 
 This is a little package intended to test Github's support (if any) for rdoc.
+
+This is a (labelled link)[https://www.google.com].
